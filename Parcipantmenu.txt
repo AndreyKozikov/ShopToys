@@ -1,0 +1,4 @@
+1;Model.Operations.ParcipantListOperations.ParcipantList;1. Показать список участников розыгрыша
+2;Model.Operations.ParcipantListOperations.ParcipantAdd;2. Добавить участника розыгрыша
+3;Model.Operations.ParcipantListOperations.ParcipantDelete;3. Удалить участника розыгрыша
+4;Model.Operations.ExitOperation;4. Вернуться в главное меню

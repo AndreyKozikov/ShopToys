@@ -1,0 +1,5 @@
+1;Model.Operations.ToysListOperations.ShowToys;1. Показать список игрушек, участвующих в розыгрыше
+2;Model.Operations.ToysListOperations.AddToy;2. Добавить игрушку
+3;Model.Operations.ToysListOperations.SetChance;3. Изменить шанс выпадения игрушки
+4;Model.Operations.ToysListOperations.DeleteToy;4. Удалить игрушку
+5;Model.Operations.ExitOperation;5. Вернуться в главное меню

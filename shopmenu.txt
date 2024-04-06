@@ -1,0 +1,4 @@
+1;Model.Operations.ToysOperations;1. Операции со списком игрушек
+2;Model.Operations.ParcipantOperations;2. Операции с участниками розыгрыша
+3;Model.Operations.RaffleOperations;3. Провести розыгрыш
+4;Model.Operations.ExitOperation;4. Выход
